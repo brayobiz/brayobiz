@@ -1,10 +1,29 @@
-- 👋 Hi, I’m @brayobiz
-- 👀 I’m interested in python and django development
-- 🌱 I’m currently brushing some crucial parts which I feel I should know
-- 💞️ I’m looking to collaborate on various projects including yours if you are ready to invite me
-- 📫 you can reach me out on social media on facebook as Brian kipkoech or you can send a message on whatsapp to +254726906861
+# Project Title
 
-<!---
-brayobiz/brayobiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+A brief description of what this project does and who it's for.
+
+## Demo
+
+[Live Demo](https://your-live-demo-link.com) *(optional)*
+
+## Features
+
+- Feature 1
+- Feature 2
+- Feature 3
+
+## Tech Stack
+
+**Client:** HTML, CSS, JavaScript *(or React, etc.)*  
+**Server:** Django*
+
+## Screenshots
+
+![App Screenshot](screenshot.png)
+
+## Installation
+
+Clone the project
+
+```bash
+git clone https://github.com/brayobiz/delixrestaurant.git
